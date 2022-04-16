@@ -1,2 +1,1 @@
-Feedback UI
-A Feedback UI is an app made from ReactJS, this was a project done by me while learning Reactjs.
+A Feedback UI is an app made in Reactjs. It is able to add, delete and edit events.
